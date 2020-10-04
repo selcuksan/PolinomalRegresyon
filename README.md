@@ -8,5 +8,6 @@ VERİ SETİ
 
 ![10 DERECE TAHMİN](https://user-images.githubusercontent.com/56341239/95012042-fc43b700-063d-11eb-90d3-241891bb3a94.PNG)
 
-1. 2. VE 4.DERECELER İÇİN TAHMİN ÇİZGİLERİ
+DERECELERE GÖRE TAHMİN ÇİZGİLERİ
+
 ![Figure_1](https://user-images.githubusercontent.com/56341239/95012085-39a84480-063e-11eb-9708-0d0aa29aa490.png)
