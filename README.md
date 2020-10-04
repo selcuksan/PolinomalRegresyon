@@ -10,4 +10,4 @@
 
 ## DERECELERE GÖRE TAHMİN ÇİZGİLERİ
 
-![Figure_1](https://user-images.githubusercontent.com/56341239/95012085-39a84480-063e-11eb-9708-0d0aa29aa490.png)
+![Figure_1](https://user-images.githubusercontent.com/56341239/95012390-c81dc580-0640-11eb-8f22-ede1c7ecc1cb.png)
